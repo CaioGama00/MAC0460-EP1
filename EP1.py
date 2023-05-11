@@ -13,10 +13,10 @@
 #  ENTENDO QUE EPS SEM ASSINATURA NÃO SERÃO CORRIGIDOS E,                     #
 #  AINDA ASSIM, PODERÃO SER PUNIDOS POR DESONESTIDADE ACADÊMICA.              #
 #                                                                             #
-#  Nome :                                                                     #
-#  NUSP :                                                                     #
-#  Turma:                                                                     #
-#  Prof.:                                                                     #
+#  Nome : Caio Rodrigues Gama                                                 #
+#  NUSP : 12543381                                                            #
+#  Turma: BCC51                                                               #
+#  Prof.: Ronaldo Fumio Hashimoto                                             #
 ###############################################################################
 """ programa ep01.py
 
